@@ -13,5 +13,5 @@ The beginning of the pandemic outbreak resulted in a lot of uncertainty around t
 
 
 
+[Redfin Data](https://drive.google.com/file/d/1txXciNYidyDv_qvjzkWLWU9ezFVkJRGc/view?usp=sharing)
 
-Redfin Data for "COVID-19 vs Housing in California": https://drive.google.com/file/d/1txXciNYidyDv_qvjzkWLWU9ezFVkJRGc/view?usp=sharing
